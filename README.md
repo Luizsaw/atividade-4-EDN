@@ -17,18 +17,3 @@ Este projeto contém quatro pequenos programas em Python como parte da Atividade
 
 ### 4. Classificador de Pares e Ímpares
 - Permite ao usuário digitar números indefinidamente e classifica cada um como par ou ímpar, contabilizando a quantidade de cada tipo.
-
-## Requisitos
-- Python 3.x
-
-## Como executar
-1. Abra um terminal.
-2. Execute um dos arquivos individualmente:
-   ```bash
-   python nome_do_arquivo.py
-   ```
-3. Siga as instruções exibidas no terminal.
-
----
-
-Criado por Luiz Carlos de Araújo Machado 🧠
